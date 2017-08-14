@@ -1,10 +1,13 @@
 # pyasm
 pyasm for python 3.+
-build on upon Florian Boesch's pyasm project.
-I thought the original project could work in python 2.+ at first，
+
+Build on upon Florian Boesch's pyasm project.
+
+I thought the original project could work in python 2.+ at first,
 but recently when I run the code in 2.+ there are some errors either.
-so this project is paused.
-but I like the idea with it's coding style， may be continue in the future.
+So this project is paused.
+
+But I like the idea with it's coding style, may be continue in the future.
 
 hello world example
 ```python
